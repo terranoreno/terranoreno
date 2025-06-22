@@ -4,6 +4,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB4MnJ4c2xpbGMzanZ0aDN4a25mMXo4bjlxcjI4a3hwN3M1ZDV4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif" alt="welcome gif" width="400"/>
 </div>
 
+> _"Data is not just about numbers. It’s about understanding the world better."_
 🎓 Industrial Engineering student at Universitas Mercu Buana (Class of 2023)  
 🔍 Aspiring Data Analyst passionate about turning data into impactful decisions  
 📍 Based in Indonesia  
@@ -53,10 +54,8 @@ Feel free to explore my repos and follow along. Feedback is always welcome!
 ## 📬 Let’s Connect!
 
 Reach out to me via:
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile] *(optional, bisa ditambah nanti)*
-
-> _"Data is not just about numbers. It’s about understanding the world better."_
+- 📧 Email: [terranoputrautama@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/terrano-putra-utama/]
 
 ---
 
