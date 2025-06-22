@@ -37,21 +37,6 @@ Here are the tools and libraries I'm comfortable with:
 
 ---
 
-## 📚 Currently Learning
-
-- Creating structured data analysis projects
-- Enhancing storytelling with data visualization
-- Building my portfolio for future internship and job opportunities
-
----
-
-## 📈 GitHub is My Journal
-
-I'm treating this GitHub like a growth journal — documenting my journey as I improve, project by project.  
-Feel free to explore my repos and follow along. Feedback is always welcome!
-
----
-
 ## 📬 Let’s Connect!
 
 Reach out to me via:
