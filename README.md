@@ -1,5 +1,5 @@
 # Terrano Putra Utama — Industrial Engineer | Tech Innovator
-![welcome-gif]([[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif]](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM5czVpdXFybmJkY2lwYWVuNnplYjB6bnN3eGlucmZ0N3N6MWFqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif))
+![welcome-gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDB4MnJ4c2xpbGMzanZ0aDN4a25mMXo4bjlxcjI4a3hwN3M1ZDV4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WILqPq29TyIkVCSej/giphy.gif)
 
 🎓 Industrial Engineering student at Universitas Mercu Buana (Class of 2023)  
 🔍 Aspiring Data Analyst passionate about turning data into impactful decisions  
