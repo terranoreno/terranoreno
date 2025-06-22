@@ -5,6 +5,7 @@
 </div>
 
 > _"Data is not just about numbers. It’s about understanding the world better."_
+
 🎓 Industrial Engineering student at Universitas Mercu Buana (Class of 2023)  
 🔍 Aspiring Data Analyst passionate about turning data into impactful decisions  
 📍 Based in Indonesia  
