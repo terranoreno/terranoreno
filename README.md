@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Terrano Putra Utama!
+# Terrano Putra Utama
 
 🎓 Industrial Engineering student at Universitas Mercu Buana (Class of 2023)  
 🔍 Aspiring Data Analyst passionate about turning data into impactful decisions  
